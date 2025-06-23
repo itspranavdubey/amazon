@@ -1,5 +1,3 @@
-Hello, This file contain db code
+Hello, This file contain db related code
 
->>I have updated<<
-
-Please check the updated code
+>>I have updated the line here<<
